@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhairyasheel.ghatage@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VV-VZx_Ur0OiKxfwUy1dOyk9SvY6hzNX/view?usp=sharing](https://drive.google.com/file/d/1VV-VZx_Ur0OiKxfwUy1dOyk9SvY6hzNX/view?usp=sharing)
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/17ciCyNh6LLxAj0O_OsySok50JQxcMv-B/view?usp=sharing" target="_blank">Resume</a>
 
 - ⚡ Fun fact **I am a musician**
 
