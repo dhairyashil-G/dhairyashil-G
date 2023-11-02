@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django,DjangoRest,Streamlit**
+- 💬 Ask me about **Django,DjangoRest,Streamlit,PyQt5**
 
 - 📫 How to reach me **dhairyasheel.ghatage@gmail.com**
 
